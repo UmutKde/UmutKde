@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Computer Engineering student focused on **Backend Development** using the **.NET ecosystem**. I am passionate about building clean, scalable architectures and solving algorithmic problems.
+I am an Electrical and Electronics student focused on **Backend Development** using the **.NET ecosystem**. I am passionate about building clean, scalable architectures and solving algorithmic problems.
 
 ---
 
