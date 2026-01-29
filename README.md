@@ -27,7 +27,7 @@ I am an Electrical and Electronics student focused on **Backend Development** us
 
 <br/>
 <div align="left">
-  <a href="https://www.linkedin.com/in/umut-k%C3%B6se-b6de/" target="_blank">
+  <a href="https://www.linkedin.com/in/umut-k%C3%B6de/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:umutkode@gmail.com">
